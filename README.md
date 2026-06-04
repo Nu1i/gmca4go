@@ -9,11 +9,17 @@ Usage:
 
 Available Commands:
   completion  Generate the autocompletion script for the specified shell
+  
   exportca    Export ca cert.
+  
   help        Help about any command
+  
   root        Generate root key and cert.
+  
   server      Generate server key and cert.
+  
   version     Print the version number of gmca
+  
 
 Flags:
   -h, --help   help for gmca
